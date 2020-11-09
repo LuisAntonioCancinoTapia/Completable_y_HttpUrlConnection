@@ -12,9 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="90dp"
         android:background="@drawable/libro"
-        tools:ignore="MissingConstraints"
-        tools:layout_editor_absoluteX="0dp"
-        tools:layout_editor_absoluteY="-2dp" />
+        tools:ignore="MissingConstraints" />
 
     <TextView
         android:id="@+id/instructions"
